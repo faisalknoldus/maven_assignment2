@@ -1,0 +1,3 @@
+# Project exclude paths
+/module_1/target/
+/module_2/target/
